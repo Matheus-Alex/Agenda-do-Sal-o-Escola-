@@ -1,2 +1,5 @@
 # Agenda-do-Sal-o-Escola-
-[DEV]
+DEV Matheus
+DADOS Thales
+NUVEM Rodrigo
+QA Marilia
