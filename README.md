@@ -1,23 +1,17 @@
-# Agenda-do-Sal-o-Escola-
-DEV Matheus
-DADOS Thales
-NUVEM Rodrigo
-QA Marilia
-
 # agenda-salao-escola
 
 **Desafio 03 – Agenda do Salão-Escola** · Cloud Challenge · Senac 2026.2 · Complexidade: avançada
 
 | Grupo nº | Nível de implantação | URL pública (Nível A) | Vídeo do pitch |
 |---|---|---|---|
-| gXX | A / B / C | _preencher_ | _preencher_ |
+| 03 | A / B / C | _preencher_ | _preencher_ |
 
 | Integrante | Papel |
 |---|---|
-| _nome_ | DEV |
-| _nome_ | DADOS |
-| _nome_ | NUVEM |
-| _nome_ | QA |
+| Matheus | DEV |
+| Thales | DADOS |
+| Rodrigo | NUVEM |
+| Marilia | QA |
 
 ---
 
