@@ -191,7 +191,7 @@ Nível A: registro `PROF-HHMM` criado pelo professor — _anexar print_.
 
 | Problema | Diagnóstico | Causa | Solução |
 |---|---|---|---|
-| _preencher_ | _preencher_ | _preencher_ | _preencher_ |
+|  |  |  |  |
 
 **Dificuldades previstas:**
 
