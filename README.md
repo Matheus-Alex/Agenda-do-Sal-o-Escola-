@@ -4,7 +4,7 @@
 
 | Grupo nº | Nível de implantação | URL pública (Nível A) | Vídeo do pitch |
 |---|---|---|---|
-| 03 | A / B / C | _preencher_ | _preencher_ |
+| 03 | A / B / C |  |  |
 
 | Integrante | Papel |
 |---|---|
@@ -38,14 +38,14 @@ O salão-escola atende a comunidade com estudantes em estágio supervisionado. O
 
 | Código | Requisito | Status |
 |---|---|---|
-| RF1 | Serviços e profissionais fictícios por script SQL de dados iniciais | ⬜ |
-| RF2 | Criar agendamento (cliente fictício, serviço, profissional, início; fim calculado) | ⬜ |
-| RF3 | Recusar conflito (**regra central**) | ⬜ |
-| RF4 | Respeitar horário de funcionamento (seg–sáb, 08:00–20:00) | ⬜ |
-| RF5 | Cancelar agendamento, liberando o horário | ⬜ |
-| RF6 | Listar a agenda de um dia por profissional | ⬜ |
-| — | `GET /health` testando a conexão com o banco | ⬜ |
-| Extra | Horários livres do dia, busca por cliente | ⬜ |
+| RF1 | Serviços e profissionais fictícios por script SQL de dados iniciais |  |
+| RF2 | Criar agendamento (cliente fictício, serviço, profissional, início; fim calculado) |  |
+| RF3 | Recusar conflito (**regra central**) |  |
+| RF4 | Respeitar horário de funcionamento (seg–sáb, 08:00–20:00) |  |
+| RF5 | Cancelar agendamento, liberando o horário |  |
+| RF6 | Listar a agenda de um dia por profissional |  |
+| — | `GET /health` testando a conexão com o banco |  |
+| Extra | Horários livres do dia, busca por cliente |  |
 
 ## 4. Arquitetura
 
